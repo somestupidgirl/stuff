@@ -1,0 +1,39 @@
+Capture starts when device is plugged in.
+
+   0 Device plugged into USB port
+ 156 Start RGB Fusion
+ 280 Select cooler icon in the app
+ 328 Set mode to Pulse
+ 374 .. Flash
+ 404 .. Double Flash
+ 413 .. Color Cycle
+ 430 .. Color Shift
+ 447 .. Gradient
+ 455 .. Rainbow Loop
+ 467 .. Tricolor
+ 479 .. Wave
+ 486 .. Off
+ 495 .. Static
+ 582 Change color to Green
+ 591 Change color to Yellow
+ 600 Change color to Red
+ 608 Change color to Pink
+ 617 Change color to Blue
+ 626 Change color to Cyan
+ 636 Change color to White
+ 650 Change color to half-way between White and Red
+ 707 Set Brightness to 0%
+ 717 Set Brightness to 25%
+ 729 Set Brightness to 50%
+ 738 Set Brightness to 75%
+ 746 Set Brightness to 100%
+ 781 Set Brightness to 0%
+ 843 Set Brightness to 100%
+ 871 Set mode to Wave
+ 920 Set speed to 100%
+ 997 Set speed to 0%
+1011 Set speed to 25%
+1023 Set speed to 50%
+1034 Set speed to 75%
+1100 Close RGB Fusion App
+
